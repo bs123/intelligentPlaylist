@@ -1,0 +1,23 @@
+{
+  "name": "intelligentplaylist",
+  "version": "1.0.0",
+  "description": "intelligentPlaylist suggest, share Playlists via SocialMedia",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "neo-js": "^0.1.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bs123/intelligentPlaylist.git"
+  },
+  "author": "angelo et al",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bs123/intelligentPlaylist/issues"
+  },
+  "homepage": "https://github.com/bs123/intelligentPlaylist#readme"
+}
